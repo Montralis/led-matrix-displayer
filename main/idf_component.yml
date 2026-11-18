@@ -1,0 +1,4 @@
+dependencies:
+  esphome/esp-hub75: '*'
+  lvgl/lvgl: '==9.6.0~1'
+  espressif/cjson: '^1.7.19'
